@@ -1,3 +1,4 @@
 # Ignore files related to tif
 Data/
 new_train_data/
+train/
